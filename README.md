@@ -1,4 +1,4 @@
-## T-Shirts_Trousers_Classification
+## T-Shirts Trousers Classification
 
 ### Overview
 In this work, I have compared Naive Bayes and Logistic Regression for classification of images as T-Shirts or Trousers. No built-in libraries like scikit-learn are used for writing the algorithms and all agorithms are written from scratch. I have used Mean and Standard Deviation as the features for training the models.
